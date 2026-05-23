@@ -114,7 +114,6 @@ think [`@anthropic-ai/claude-agent-sdk`](https://platform.claude.com/docs/en/age
 |---|---|
 | research + competitive analysis | done |
 | architecture locked | done |
-| full spec written (~520 lines, 11 appendices covering DSML format, codec internals, error taxonomy, hook wire protocol, api stability commitments) | done |
 | monorepo scaffolding | in progress |
 | phase 1: `@fluken/dsml` parser / serializer | planned |
 | phase 2: `@fluken/core` with ds-direct provider | planned |
