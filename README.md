@@ -106,25 +106,6 @@ think [`@anthropic-ai/claude-agent-sdk`](https://platform.claude.com/docs/en/age
 6. **mit-pure.** no agpl anywhere in the tree. apache-2.0 ok with notice preservation.
 7. **no backwards-compat shims at 0.x.** breaking changes bump minor and that's fine.
 
-## status
-
-**pre-implementation.** scaffolding right now.
-
-| phase | status |
-|---|---|
-| research + competitive analysis | done |
-| architecture locked | done |
-| monorepo scaffolding | in progress |
-| phase 1: `@fluken/dsml` parser / serializer | planned |
-| phase 2: `@fluken/core` with ds-direct provider | planned |
-| phase 3: multi-provider + opentelemetry | planned |
-| phase 4: `@fluken/sdk` primitives | planned |
-| phase 5: synthesis + tool ecosystem | planned |
-| phase 6: v4-native extensions | planned |
-| phase 7: public release | planned |
-
-building in public. updates land here and on [@PaweJLisowski](https://x.com/PaweJLisowski).
-
 ## follow along
 
 - **star this repo** to get v0.1 release notifications
